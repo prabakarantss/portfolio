@@ -14,7 +14,7 @@ const Banner = () => (
                     <h2>UI Designer & UI Developer</h2>
                     <p>A passionate Web Developer having an experience of building Web Application and Websites with user friendly...</p>
                     <div className="resume">
-                        <a href={resume}>Download Resume</a>
+                        <a href={resume} target="_blank">Download Resume</a>
                     </div>
                 </div>
             </div>
